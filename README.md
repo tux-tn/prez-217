@@ -3,6 +3,8 @@ prez-217
 
 Les diapos de ma présentation concernant la CyberSécurité durant l'évènement 217 de Netlinks
 
+Feel free to fork and use it /-) 
+
 Liens Utiles:
 =============
 
@@ -11,6 +13,8 @@ Liens Utiles:
 [Pidgin](https://www.pidgin.im/)
 
 [OTR](https://otr.cypherpunks.ca/)
+
+[CryptoCat](https://crypto.cat)
 
 [HTTPS Everywhere](https://www.eff.org/fr/https-everywhere)
 
@@ -23,6 +27,8 @@ Liens Utiles:
 [GPG](https://www.gnupg.org/)
 
 [Enigmail](https://www.enigmail.net/home/index.php)
+
+[EncFS](https://vgough.github.io/encfs/)
 
 Documentation approfondie
 =========================
